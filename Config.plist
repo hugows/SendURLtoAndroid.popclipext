@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Actions</key>
+  <array>
+    <dict>
+      <key>Title</key>
+      <string>Send URL to Android</string>
+      <key>Shell Script file</key>
+      <string>send_url_to_android.sh</string>
+      <key>Requirements</key>
+      <array><string>url</string></array>
+    </dict>
+  </array>
+  <key>ExtensionIdentifier</key>
+  <string>com.hugows.SendURLtoAndroid</string>
+  <key>ExtensionName</key>
+  <string>Send URL to Android</string>
+  <key>PopClipVersion</key>
+  <integer>1</integer>
+  <key>Icon</key>
+  <string>iconify:ri:android-fill</string>
+</dict>
+</plist>
